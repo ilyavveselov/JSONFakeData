@@ -1,0 +1,61 @@
+  [{
+    "id": 1,
+    "title": "Тысячелетний соколаааааааааааааа",
+    "price": 200,
+    "series": "Lego Star Wars",
+    "year": 2020,
+    "detailCount": 200,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/b06/746_580_140cd750bba9870f18aada2478b24840a/b0688662040efd6b8d7c08fa10169712.jpg",
+  },
+  {
+    "id": 2,
+    "title": "Гарри поттер",
+    "price": 1000,
+    "series": "Lego Harry Potter",
+    "year": 2022,
+    "detailCount": 500,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/386/746_580_140cd750bba9870f18aada2478b24840a/386d8a4e9b76ba96cad39c8c73c283de.jpg",
+  },
+  {
+    "id": 3,
+    "title": "Гарри поттер: Замок",
+    "price": 12999,
+    "series": "Lego Harry Potter",
+    "year": 2021,
+    "detailCount": 600,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/343/746_580_140cd750bba9870f18aada2478b24840a/3439c9800988236b6f659bfbc403672e.jpg",
+  },
+  {
+    "id": 4,
+    "title": "Внедорожный грузовик",
+    "price": 9799,
+    "series": "Technic",
+    "year": 2019,
+    "detailCount": 100,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/823/746_580_140cd750bba9870f18aada2478b24840a/823d9bc9780fb54136f0ed69fd0afe27.jpg",
+  },
+  {
+    "id": 5,
+    "title": "Ford® F-150 Raptor",
+    "price": 19499,
+    "series": "Technic",
+    "year": 2020,
+    "detailCount": 150,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/56a/746_580_140cd750bba9870f18aada2478b24840a/56a33c3100f6c0c8f0dcde7255bbb124.jpg",
+  },
+  {
+    "id": 6,
+    "title": "Набор LEGO Чип и Дейл",
+    "price": 2399,
+    "series": "BrickHeadz ",
+    "year": 2017,
+    "detailCount": 50,
+    "img_url":
+      "https://static.mir-kubikov.ru/upload/resize_cache/iblock/130/746_580_140cd750bba9870f18aada2478b24840a/1304f5fdaa5372a7b00e6d1d4df934cf.jpg",
+  }
+  ]
