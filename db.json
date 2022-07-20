@@ -67,5 +67,15 @@
     "detailCount": 0,
     "img_url":
       "https://sebweo.com/wp-content/uploads/2022/02/25-useful-jQuery-tips-and-solutions_thumb.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Jquerry КАЛ",
+    "price": 0,
+    "series": "БОЛЬ",
+    "year": 2022,
+    "detailCount": 0,
+    "img_url":
+      "https://sebweo.com/wp-content/uploads/2022/02/25-useful-jQuery-tips-and-solutions_thumb.jpg"
   }
   ]
